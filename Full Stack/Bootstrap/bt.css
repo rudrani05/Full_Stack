@@ -1,0 +1,7 @@
+.btn-dark{
+  color: yellow;
+}
+
+.btn-dark:hover{
+  color: red;
+}

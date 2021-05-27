@@ -1,0 +1,30 @@
+.jumbotron {
+  background-image: url("/Users/rudranimondal/Downloads/ftrd-862x500.jpg");
+  padding-bottom: 30px;
+}
+
+.jumbotron p{
+  color: white;
+}
+
+.jumbotron h1{
+  color: white
+}
+
+.navbar{
+  background-color: orange;
+  color: white;
+}
+
+h2{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nav-item{
+  padding-right: 20px;
+}
+
+.card{
+  background-color: purple;
+}

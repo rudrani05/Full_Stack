@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  color: gold;
+  font-family: cursive;
+}
+
+p{
+  font-size: 30px;
+  font-family: fantasy;
+  color: #001A6E;
+  text-indent: 80px;
+}
+
+body{
+  background-color: #D090E0;
+}

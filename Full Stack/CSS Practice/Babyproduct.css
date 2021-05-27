@@ -1,0 +1,21 @@
+body{
+  background-color: #EAC0ED;
+}
+
+h1{
+  color: #314FD4;
+  font-family: cursive;
+  text-align: center;
+}
+
+p{
+  color: #314FD4;
+  font-family: serif;
+  text-indent: 20px;
+  font-size: 35px;
+}
+
+a{
+  color: #090B6E;
+  font-family: sans-serif;
+}

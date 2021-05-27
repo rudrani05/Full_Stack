@@ -1,0 +1,23 @@
+.littleBox{
+  height: 10px;
+  width: 200px;
+  background-color: blue;
+  position: relative;
+  left: 100px;
+}
+.middleBox{
+  height: 30px;
+  width: 200px;
+  background-color: purple;
+  position: relative;
+  top: 30px;
+  left: 115px;
+}
+.lowerBox{
+  height: 50px;
+  width: 200px;
+  background-color: green;
+  position: relative;
+  top: 50px;
+  left: 125px;
+}

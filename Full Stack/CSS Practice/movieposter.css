@@ -1,0 +1,33 @@
+body{
+  background-color: #8A5B89;
+}
+
+h1{
+  font-family: Arial;
+  color: #3D093C;
+  text-align: center;
+}
+
+p{
+font-size: 14px;
+color: #3D093C;
+}
+
+div{
+  background-color: #C293C1;
+}
+
+.imgContainer{
+  position: relative;
+  left: 100px;
+}
+
+#copyRight{
+  position: absolute;
+  bottom: 10px;
+}
+
+img{
+  width: 30%;
+  padding: 1%;
+}
