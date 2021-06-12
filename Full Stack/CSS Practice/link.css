@@ -1,0 +1,20 @@
+ul{
+    list-style-type: none;
+    background-color: rgb(71, 66, 66);
+    overflow: hidden;
+}
+
+li{
+    float: left;
+}
+
+a{
+    text-decoration: none;
+    padding: 13px;
+    color: honeydew;
+    display: block;
+}
+
+a:hover{
+    background-color: black;
+}
