@@ -1,5 +1,5 @@
 span{
-  background-color: yellow;
-  display: block;
-  height:100px;
+    background-color: coral;
+    display: inline-block;
+    height: 50px;
 }
