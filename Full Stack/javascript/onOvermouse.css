@@ -1,0 +1,13 @@
+#divone{
+    margin: 60px;
+    background-color: blue;
+    height: 80px;
+    width: 150px;
+}
+
+#divtwo{
+    background-color: chocolate;
+    height: 180px;
+    width: 50px;
+    margin: 20px;
+}

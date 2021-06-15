@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="onOvermouse.css">
+</head>
+<body>
+    <h1>Events!</h1>
+    <p>Put your mouse in then out to change the background color</p>
+
+    <div id="divone" onmouseout="changeDivOne()">
+    </div>
+
+    <p>Click the mouse when you lift the mouse things will cahnge</p>
+    <div id="divtwo" onmouseup="changeDivTwo()">
+    </div>
+
+    <p id="para">Please start typing to make change</p>
+    <input type="text" id="Inputone" onkeydown="changeText()">
+
+    <script type="text/javascript" src="onOvermouse.js"></script>
+</body>
+</html>
