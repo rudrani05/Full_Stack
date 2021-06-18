@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(231, 243, 187);
+    font-family: monospace;
+}
+
+div{
+    text-align: center;
+   background-color: rgb(235, 165, 235);
+   border-radius: 20px;
+   padding: 25px;
+}
+
+h4{
+    font-size: 17px;
+}
